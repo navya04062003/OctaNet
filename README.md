@@ -15,6 +15,7 @@ Add new tasks
 Mark tasks as completed
 Edit existing tasks
 Delete tasks
+
 Technology Stack:
 
 Use any front-end and back-end technologies you are comfortable with (e.g., HTML, CSS, JavaScript, React, Node.js)
